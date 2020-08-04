@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66d7e6a4-26d0-4802-933d-ec53cf8e35ab" name="Default Changelist" comment="first commit: settings in repo">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -51,6 +53,7 @@
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Users\maria\WebstormProjects\codeceptHomeworkOtus\node_modules\typescript\lib" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596565503810</updated>
       <workItem from="1596565505720" duration="897000" />
-      <workItem from="1596566423043" duration="1752000" />
+      <workItem from="1596566423043" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="first commit: settings in repo">
       <created>1596567761608</created>
@@ -77,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596567979121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit: settings in repo">
+      <created>1596568189700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596568189700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +110,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit: settings in repo" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1596568327423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1596568327423" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1596565887920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -108,9 +122,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596567246345" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596567769635">
+    <state x="618" y="326" key="VCS.ChangelistChooser" timestamp="1596568152349">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596567769635" />
+    <state x="618" y="326" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1596568152349" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596568191688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596568191688" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596568327413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1596568327413" />
+    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1596568288568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1596568288568" />
   </component>
 </project>
