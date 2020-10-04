@@ -12,7 +12,10 @@ exports.config = {
       url: 'http://localhost',
       show: true,
       windowSize: '1200x900'
-    }
+    },
+      REST: {
+        endpoint: "",
+      }
   },
   include: {
     I: './steps_file.js'
